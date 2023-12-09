@@ -1,0 +1,6 @@
+@StarBound_HostAddress = http://localhost:5173
+
+GET {{StarBound_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
