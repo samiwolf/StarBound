@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarBound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7017d3e3f0d0c16c55b46293dfbd48d4e7dcd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarBound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarBound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
